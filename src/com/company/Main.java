@@ -8,7 +8,8 @@ public class Main  {
         boss.setAtaka(30);
         boss.setZashita("защита от магий");
 
-        System.out.println("Атака "+ boss.getAtaka()+ " жизнь " + boss.getLife()+ "\n"+ boss.getZashita());
+        System.out.println("Атака "+ boss.getAtaka()+ " жизнь " +
+                " " + boss.getLife()+ "\n"+ boss.getZashita());
     }
 
 
